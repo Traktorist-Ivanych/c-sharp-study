@@ -1,0 +1,7 @@
+D:\Study\SkillBox\C#\2.7\SkillBox2_7\SkillBox2_7\bin\Debug\SkillBox2_7.exe.config
+D:\Study\SkillBox\C#\2.7\SkillBox2_7\SkillBox2_7\bin\Debug\SkillBox2_7.exe
+D:\Study\SkillBox\C#\2.7\SkillBox2_7\SkillBox2_7\bin\Debug\SkillBox2_7.pdb
+D:\Study\SkillBox\C#\2.7\SkillBox2_7\SkillBox2_7\obj\Debug\SkillBox2_7.csproj.AssemblyReference.cache
+D:\Study\SkillBox\C#\2.7\SkillBox2_7\SkillBox2_7\obj\Debug\SkillBox2_7.csproj.CoreCompileInputs.cache
+D:\Study\SkillBox\C#\2.7\SkillBox2_7\SkillBox2_7\obj\Debug\SkillBox2_7.exe
+D:\Study\SkillBox\C#\2.7\SkillBox2_7\SkillBox2_7\obj\Debug\SkillBox2_7.pdb
