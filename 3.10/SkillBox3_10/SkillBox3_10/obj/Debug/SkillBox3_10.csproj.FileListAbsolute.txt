@@ -1,0 +1,7 @@
+D:\Study\SkillBox\C#\3.10\SkillBox3_10\SkillBox3_10\bin\Debug\SkillBox3_10.exe.config
+D:\Study\SkillBox\C#\3.10\SkillBox3_10\SkillBox3_10\bin\Debug\SkillBox3_10.exe
+D:\Study\SkillBox\C#\3.10\SkillBox3_10\SkillBox3_10\bin\Debug\SkillBox3_10.pdb
+D:\Study\SkillBox\C#\3.10\SkillBox3_10\SkillBox3_10\obj\Debug\SkillBox3_10.csproj.AssemblyReference.cache
+D:\Study\SkillBox\C#\3.10\SkillBox3_10\SkillBox3_10\obj\Debug\SkillBox3_10.csproj.CoreCompileInputs.cache
+D:\Study\SkillBox\C#\3.10\SkillBox3_10\SkillBox3_10\obj\Debug\SkillBox3_10.exe
+D:\Study\SkillBox\C#\3.10\SkillBox3_10\SkillBox3_10\obj\Debug\SkillBox3_10.pdb
