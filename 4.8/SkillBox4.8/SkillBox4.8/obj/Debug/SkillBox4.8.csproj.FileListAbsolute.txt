@@ -1,0 +1,7 @@
+D:\Study\SkillBox\C#\4.8\SkillBox4.8\SkillBox4.8\bin\Debug\SkillBox4.8.exe.config
+D:\Study\SkillBox\C#\4.8\SkillBox4.8\SkillBox4.8\bin\Debug\SkillBox4.8.exe
+D:\Study\SkillBox\C#\4.8\SkillBox4.8\SkillBox4.8\bin\Debug\SkillBox4.8.pdb
+D:\Study\SkillBox\C#\4.8\SkillBox4.8\SkillBox4.8\obj\Debug\SkillBox4.8.csproj.AssemblyReference.cache
+D:\Study\SkillBox\C#\4.8\SkillBox4.8\SkillBox4.8\obj\Debug\SkillBox4.8.csproj.CoreCompileInputs.cache
+D:\Study\SkillBox\C#\4.8\SkillBox4.8\SkillBox4.8\obj\Debug\SkillBox4.8.exe
+D:\Study\SkillBox\C#\4.8\SkillBox4.8\SkillBox4.8\obj\Debug\SkillBox4.8.pdb
