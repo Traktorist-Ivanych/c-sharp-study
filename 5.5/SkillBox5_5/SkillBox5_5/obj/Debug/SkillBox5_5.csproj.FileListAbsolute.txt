@@ -1,0 +1,7 @@
+D:\Study\SkillBox\C#\5.5\SkillBox5_5\SkillBox5_5\bin\Debug\SkillBox5_5.exe.config
+D:\Study\SkillBox\C#\5.5\SkillBox5_5\SkillBox5_5\bin\Debug\SkillBox5_5.exe
+D:\Study\SkillBox\C#\5.5\SkillBox5_5\SkillBox5_5\bin\Debug\SkillBox5_5.pdb
+D:\Study\SkillBox\C#\5.5\SkillBox5_5\SkillBox5_5\obj\Debug\SkillBox5_5.csproj.AssemblyReference.cache
+D:\Study\SkillBox\C#\5.5\SkillBox5_5\SkillBox5_5\obj\Debug\SkillBox5_5.csproj.CoreCompileInputs.cache
+D:\Study\SkillBox\C#\5.5\SkillBox5_5\SkillBox5_5\obj\Debug\SkillBox5_5.exe
+D:\Study\SkillBox\C#\5.5\SkillBox5_5\SkillBox5_5\obj\Debug\SkillBox5_5.pdb

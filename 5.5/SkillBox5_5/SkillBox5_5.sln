@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillBox5_5", "SkillBox5_5\SkillBox5_5.csproj", "{60272A96-F8EE-4BDD-8EF5-0A9B64FB1BBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60272A96-F8EE-4BDD-8EF5-0A9B64FB1BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60272A96-F8EE-4BDD-8EF5-0A9B64FB1BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60272A96-F8EE-4BDD-8EF5-0A9B64FB1BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60272A96-F8EE-4BDD-8EF5-0A9B64FB1BBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E557AE9-D6A6-42C2-8205-E2C9FBADDD7F}
+	EndGlobalSection
+EndGlobal
