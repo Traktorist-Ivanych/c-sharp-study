@@ -34,7 +34,7 @@ namespace SkillBox5_5
         /// Разделяет слова из предложения.
         /// </summary>
         /// <param name="text"> Входное предложение. </param>
-        /// <returns> Массив слов. </returns>
+        /// <returns> Массив слов, из которых состоит предложение. </returns>
         static string[] SplitText(string text)
         {
             string[] wordsResult = text.Split(' ');
@@ -63,9 +63,9 @@ namespace SkillBox5_5
             string[] wordsToRevers = SplitText(textToRevers);
             string reversTextResult = "";
 
-            for (int i = wordsToRevers.Length-1; i >= 0; i--)
+            for (int i = wordsToRevers.Length-1; i >= 0; i--) // перебирает массив слов в обратном порядке для перестановки
             {
-                if (i == wordsToRevers.Length - 1)
+                if (i == wordsToRevers.Length - 1) // для первого слова пробел не нужен
                 {
                     reversTextResult = wordsToRevers[i];
                 }
