@@ -1,0 +1,7 @@
+D:\Study\SkillBox\C#\6.6\SkillBox6_6\SkillBox6_6\bin\Debug\SkillBox6_6.exe.config
+D:\Study\SkillBox\C#\6.6\SkillBox6_6\SkillBox6_6\bin\Debug\SkillBox6_6.exe
+D:\Study\SkillBox\C#\6.6\SkillBox6_6\SkillBox6_6\bin\Debug\SkillBox6_6.pdb
+D:\Study\SkillBox\C#\6.6\SkillBox6_6\SkillBox6_6\obj\Debug\SkillBox6_6.csproj.AssemblyReference.cache
+D:\Study\SkillBox\C#\6.6\SkillBox6_6\SkillBox6_6\obj\Debug\SkillBox6_6.csproj.CoreCompileInputs.cache
+D:\Study\SkillBox\C#\6.6\SkillBox6_6\SkillBox6_6\obj\Debug\SkillBox6_6.exe
+D:\Study\SkillBox\C#\6.6\SkillBox6_6\SkillBox6_6\obj\Debug\SkillBox6_6.pdb
