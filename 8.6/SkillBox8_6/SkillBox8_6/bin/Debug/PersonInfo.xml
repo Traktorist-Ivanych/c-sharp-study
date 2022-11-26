@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Person name="Тракторист Иваныч">
+  <Address Street="Пшеничная" HouseNumber="15" FlatNumber="69" />
+  <Phones MobilePhone="+375449507812" FlatPhone="45650" />
+</Person>
