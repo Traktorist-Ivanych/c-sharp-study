@@ -1,0 +1,15 @@
+D:\Study\SkillBox\C#\10.5\SkillBox10_5\SkillBox10_5\bin\Debug\SkillBox10_5.exe.config
+D:\Study\SkillBox\C#\10.5\SkillBox10_5\SkillBox10_5\bin\Debug\SkillBox10_5.exe
+D:\Study\SkillBox\C#\10.5\SkillBox10_5\SkillBox10_5\bin\Debug\SkillBox10_5.pdb
+D:\Study\SkillBox\C#\10.5\SkillBox10_5\SkillBox10_5\obj\Debug\SkillBox10_5.csproj.AssemblyReference.cache
+D:\Study\SkillBox\C#\10.5\SkillBox10_5\SkillBox10_5\obj\Debug\MainWindow.g.cs
+D:\Study\SkillBox\C#\10.5\SkillBox10_5\SkillBox10_5\obj\Debug\App.g.cs
+D:\Study\SkillBox\C#\10.5\SkillBox10_5\SkillBox10_5\obj\Debug\SkillBox10_5_MarkupCompile.cache
+D:\Study\SkillBox\C#\10.5\SkillBox10_5\SkillBox10_5\obj\Debug\SkillBox10_5_MarkupCompile.lref
+D:\Study\SkillBox\C#\10.5\SkillBox10_5\SkillBox10_5\obj\Debug\MainWindow.baml
+D:\Study\SkillBox\C#\10.5\SkillBox10_5\SkillBox10_5\obj\Debug\SkillBox10_5.g.resources
+D:\Study\SkillBox\C#\10.5\SkillBox10_5\SkillBox10_5\obj\Debug\SkillBox10_5.Properties.Resources.resources
+D:\Study\SkillBox\C#\10.5\SkillBox10_5\SkillBox10_5\obj\Debug\SkillBox10_5.csproj.GenerateResource.cache
+D:\Study\SkillBox\C#\10.5\SkillBox10_5\SkillBox10_5\obj\Debug\SkillBox10_5.csproj.CoreCompileInputs.cache
+D:\Study\SkillBox\C#\10.5\SkillBox10_5\SkillBox10_5\obj\Debug\SkillBox10_5.exe
+D:\Study\SkillBox\C#\10.5\SkillBox10_5\SkillBox10_5\obj\Debug\SkillBox10_5.pdb
