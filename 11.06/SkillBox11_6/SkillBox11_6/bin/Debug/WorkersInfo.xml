@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Workers>
+  <Worker Name="Тракторист" Surname="Иваныч" Patronymic="Иваныч" PhoneNumber="+375448506090" PasspordId="КН7409054" ID="1" DateTimeChanges="Изменений не было" ChangedFields="Изменений не было" ChangesType="Изменений не было" WhoseChanges="Изменений не было" />
+  <Worker Name="Путник" Surname="Странствующий" Patronymic="Петров" PhoneNumber="+375448506029" PasspordId="ЛН9124950" ID="2" DateTimeChanges="08.12.2022 19:15:26" ChangedFields="PhoneNumber" ChangesType="Change" WhoseChanges="Manager" />
+  <Worker Name="Миша" Surname="Плюшевый" Patronymic="Олегович" PhoneNumber="+375298456123" PasspordId="НП4509781" ID="3" DateTimeChanges="08.12.2022 19:16:06" ChangedFields="Все" ChangesType="Создание" WhoseChanges="Manager" />
+</Workers>
