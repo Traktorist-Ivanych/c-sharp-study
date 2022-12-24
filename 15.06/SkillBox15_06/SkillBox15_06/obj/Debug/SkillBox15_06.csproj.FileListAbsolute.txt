@@ -1,0 +1,10 @@
+D:\Study\SkillBox\C#\15.06\SkillBox15_06\SkillBox15_06\bin\Debug\SkillBox15_06.exe.config
+D:\Study\SkillBox\C#\15.06\SkillBox15_06\SkillBox15_06\bin\Debug\SkillBox15_06.exe
+D:\Study\SkillBox\C#\15.06\SkillBox15_06\SkillBox15_06\bin\Debug\SkillBox15_06.pdb
+D:\Study\SkillBox\C#\15.06\SkillBox15_06\SkillBox15_06\bin\Debug\SkillBox15_06_Library.dll
+D:\Study\SkillBox\C#\15.06\SkillBox15_06\SkillBox15_06\bin\Debug\SkillBox15_06_Library.pdb
+D:\Study\SkillBox\C#\15.06\SkillBox15_06\SkillBox15_06\obj\Debug\SkillBox15_06.csproj.AssemblyReference.cache
+D:\Study\SkillBox\C#\15.06\SkillBox15_06\SkillBox15_06\obj\Debug\SkillBox15_06.csproj.CoreCompileInputs.cache
+D:\Study\SkillBox\C#\15.06\SkillBox15_06\SkillBox15_06\obj\Debug\SkillBox15_06.csproj.CopyComplete
+D:\Study\SkillBox\C#\15.06\SkillBox15_06\SkillBox15_06\obj\Debug\SkillBox15_06.exe
+D:\Study\SkillBox\C#\15.06\SkillBox15_06\SkillBox15_06\obj\Debug\SkillBox15_06.pdb

@@ -1,0 +1,6 @@
+D:\Study\SkillBox\C#\15.06\SkillBox15_06\SkillBox15_06_Library\bin\Debug\SkillBox15_06_Library.dll
+D:\Study\SkillBox\C#\15.06\SkillBox15_06\SkillBox15_06_Library\bin\Debug\SkillBox15_06_Library.pdb
+D:\Study\SkillBox\C#\15.06\SkillBox15_06\SkillBox15_06_Library\obj\Debug\SkillBox15_06_Library.csproj.AssemblyReference.cache
+D:\Study\SkillBox\C#\15.06\SkillBox15_06\SkillBox15_06_Library\obj\Debug\SkillBox15_06_Library.csproj.CoreCompileInputs.cache
+D:\Study\SkillBox\C#\15.06\SkillBox15_06\SkillBox15_06_Library\obj\Debug\SkillBox15_06_Library.dll
+D:\Study\SkillBox\C#\15.06\SkillBox15_06\SkillBox15_06_Library\obj\Debug\SkillBox15_06_Library.pdb
