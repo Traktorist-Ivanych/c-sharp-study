@@ -1,0 +1,7 @@
+D:\Study\SkillBox\C#\16.10\SkillBox16_10\SkillBox16_10\bin\Debug\SkillBox16_10.exe.config
+D:\Study\SkillBox\C#\16.10\SkillBox16_10\SkillBox16_10\bin\Debug\SkillBox16_10.exe
+D:\Study\SkillBox\C#\16.10\SkillBox16_10\SkillBox16_10\bin\Debug\SkillBox16_10.pdb
+D:\Study\SkillBox\C#\16.10\SkillBox16_10\SkillBox16_10\obj\Debug\SkillBox16_10.csproj.AssemblyReference.cache
+D:\Study\SkillBox\C#\16.10\SkillBox16_10\SkillBox16_10\obj\Debug\SkillBox16_10.csproj.CoreCompileInputs.cache
+D:\Study\SkillBox\C#\16.10\SkillBox16_10\SkillBox16_10\obj\Debug\SkillBox16_10.exe
+D:\Study\SkillBox\C#\16.10\SkillBox16_10\SkillBox16_10\obj\Debug\SkillBox16_10.pdb
