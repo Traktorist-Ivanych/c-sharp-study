@@ -1,0 +1,15 @@
+D:\Study\SkillBox\C#\17.06\SkillBox17_6\SkillBox17_6\bin\Debug\SkillBox17_6.exe.config
+D:\Study\SkillBox\C#\17.06\SkillBox17_6\SkillBox17_6\bin\Debug\SkillBox17_6.exe
+D:\Study\SkillBox\C#\17.06\SkillBox17_6\SkillBox17_6\bin\Debug\SkillBox17_6.pdb
+D:\Study\SkillBox\C#\17.06\SkillBox17_6\SkillBox17_6\obj\Debug\SkillBox17_6.csproj.AssemblyReference.cache
+D:\Study\SkillBox\C#\17.06\SkillBox17_6\SkillBox17_6\obj\Debug\MainWindow.g.cs
+D:\Study\SkillBox\C#\17.06\SkillBox17_6\SkillBox17_6\obj\Debug\App.g.cs
+D:\Study\SkillBox\C#\17.06\SkillBox17_6\SkillBox17_6\obj\Debug\SkillBox17_6_MarkupCompile.cache
+D:\Study\SkillBox\C#\17.06\SkillBox17_6\SkillBox17_6\obj\Debug\SkillBox17_6_MarkupCompile.lref
+D:\Study\SkillBox\C#\17.06\SkillBox17_6\SkillBox17_6\obj\Debug\MainWindow.baml
+D:\Study\SkillBox\C#\17.06\SkillBox17_6\SkillBox17_6\obj\Debug\SkillBox17_6.g.resources
+D:\Study\SkillBox\C#\17.06\SkillBox17_6\SkillBox17_6\obj\Debug\SkillBox17_6.Properties.Resources.resources
+D:\Study\SkillBox\C#\17.06\SkillBox17_6\SkillBox17_6\obj\Debug\SkillBox17_6.csproj.GenerateResource.cache
+D:\Study\SkillBox\C#\17.06\SkillBox17_6\SkillBox17_6\obj\Debug\SkillBox17_6.csproj.CoreCompileInputs.cache
+D:\Study\SkillBox\C#\17.06\SkillBox17_6\SkillBox17_6\obj\Debug\SkillBox17_6.exe
+D:\Study\SkillBox\C#\17.06\SkillBox17_6\SkillBox17_6\obj\Debug\SkillBox17_6.pdb
