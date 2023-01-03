@@ -5,12 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SkillBox17_6"
         mc:Ignorable="d"
-        Title="MainWindow" Height="600" Width="1000">
+        Title="MainWindow" Height="600" Width="1100">
     <Grid>
         <TextBox x:Name="LoginTextBox" HorizontalAlignment="Left" Height="20" Margin="50,20,0,0" TextWrapping="Wrap" Text="Введите логин..." VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="PasswordTextBox" HorizontalAlignment="Left" Height="20" Margin="220,20,0,0" TextWrapping="Wrap" Text="Введите пароль..." VerticalAlignment="Top" Width="120"/>
-        <Button x:Name="SingInButton" Content="Войти" HorizontalAlignment="Left" Margin="390,20,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button x:Name="SingInButton" Content="Войти" HorizontalAlignment="Left" Margin="390,20,0,0" VerticalAlignment="Top" Width="100" Click="SingInButton_Click"/>
         <TextBlock x:Name="SingInStatus" HorizontalAlignment="Left" Margin="540,20,0,0" TextWrapping="Wrap" Text="Подключние..." VerticalAlignment="Top" Width="400"/>
+        <Button x:Name="UniteDataButton" Content="Вывести всю информацию" HorizontalAlignment="Left" Margin="450,535,0,0" VerticalAlignment="Top" Width="200" Click="UniteDataButton_Click"/>
 
         <DataGrid x:Name="gridView"
                   IsSynchronizedWithCurrentItem="True"
@@ -18,7 +19,7 @@
                   AutoGenerateColumns="False" 
                   ItemsSource="{Binding}"
                   IsReadOnly="False"
-                  Margin="100,100,100,100">
+                  Margin="20,100,20,50" CellEditEnding="gridView_CellEditEnding" CurrentCellChanged="gridView_CurrentCellChanged">
 
             <DataGrid.Columns>
                 <DataGridTextColumn x:Name="id" 
@@ -48,7 +49,12 @@
 
 
             </DataGrid.Columns>
+            <DataGrid.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Добавить" Click="MenuItemAddClick"/>
+                    <MenuItem Header="Удалить" Click="MenuItemDeleteClick"/>
+                </ContextMenu>
+            </DataGrid.ContextMenu>
         </DataGrid>
-
     </Grid>
 </Window>

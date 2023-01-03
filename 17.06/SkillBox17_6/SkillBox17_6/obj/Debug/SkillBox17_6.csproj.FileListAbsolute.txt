@@ -13,3 +13,7 @@ D:\Study\SkillBox\C#\17.06\SkillBox17_6\SkillBox17_6\obj\Debug\SkillBox17_6.cspr
 D:\Study\SkillBox\C#\17.06\SkillBox17_6\SkillBox17_6\obj\Debug\SkillBox17_6.csproj.CoreCompileInputs.cache
 D:\Study\SkillBox\C#\17.06\SkillBox17_6\SkillBox17_6\obj\Debug\SkillBox17_6.exe
 D:\Study\SkillBox\C#\17.06\SkillBox17_6\SkillBox17_6\obj\Debug\SkillBox17_6.pdb
+D:\Study\SkillBox\C#\17.06\SkillBox17_6\SkillBox17_6\obj\Debug\AddWindow.g.cs
+D:\Study\SkillBox\C#\17.06\SkillBox17_6\SkillBox17_6\obj\Debug\AddWindow.baml
+D:\Study\SkillBox\C#\17.06\SkillBox17_6\SkillBox17_6\obj\Debug\UnitedData.g.cs
+D:\Study\SkillBox\C#\17.06\SkillBox17_6\SkillBox17_6\obj\Debug\UnitedData.baml
